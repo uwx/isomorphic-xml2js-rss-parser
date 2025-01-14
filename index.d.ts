@@ -1,4 +1,4 @@
-import { Options } from 'xml2js';
+import { Options } from 'isomorphic-xml2js';
 import { RequestOptions } from 'https';
 
 declare namespace Parser {
